@@ -6,14 +6,14 @@
         "mysql": {
             "db_host": "localhost",
             "db_user": "root",
-            "db_pass": "uqjMAMFMUzzBB3hPx45UB3hkD",
+            "db_pass": "",
             "db": "mysql"
         },
         "rpc": {
             "rpc_host": "127.0.0.1",
-            "rpc_port": "30009",
-            "rpc_user": "biec1WwXpA",
-            "rpc_pass": "NCpIySg94IanhjPMnrWNvv"
+            "rpc_port": "",
+            "rpc_user": "",
+            "rpc_pass": ""
         },
         "logging": {
             "print_level": 3,
