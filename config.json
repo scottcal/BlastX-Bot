@@ -1,0 +1,48 @@
+{"data": [
+    {
+        "discord": {
+            "token": "Blast"
+        },
+        "mysql": {
+            "db_host": "localhost",
+            "db_user": "root",
+            "db_pass": "uqjMAMFMUzzBB3hPx45UB3hkD",
+            "db": "mysql"
+        },
+        "rpc": {
+            "rpc_host": "127.0.0.1",
+            "rpc_port": "30009",
+            "rpc_user": "biec1WwXpA",
+            "rpc_pass": "NCpIySg94IanhjPMnrWNvv"
+        },
+        "logging": {
+            "print_level": 3,
+            "file": "log.txt",
+            "file_level": 3
+        },
+        "soak": {
+            "soak_max_recipients": 50,
+            "use_max_recipients": true,
+            "soak_min_received": 0.0001,
+            "use_min_received": true
+        },
+        "command_channels": {
+            "help": [list of channel names for this command],
+            "deposit": [list of channel names for this command],
+            "withdraw": [list of channel names for this command],
+            "balance": [list of channel names for this command],
+            "uptime": [list of channel names for this command],
+            "invite": [list of channel names for this command],
+            "stats": [list of channel names for this command],
+            "mninfo": [list of channel names for this command],
+            "tip": [list of channel names for this command],
+            "soak": [list of channel names for this command],
+            "soak_info": [list of channel names for this command],
+            "checksoak": [list of channel names for this command
+        },
+        "txfee": 0,
+        "owners": ["DeltaX#3303"],
+        "prefix": "!",
+        "description": "Blast Tipping Bot"
+    }
+]}
